@@ -10,5 +10,14 @@ Comando para ativar o ambiente virtual
 Comando para listar as bibliotecas instaladas dentro do ambiente virtual
     - pip list
 
+Comando para criar um projeto Django
+    - django-admin startproject core .
+
+Comando para criar um app Django
+    - django-admin startapp lynx
+
+Comando para rodar o servidor Django
+    - python manage.py runserver
+
 Bibliotecas utilizadas no projeto
     - pip install Django
