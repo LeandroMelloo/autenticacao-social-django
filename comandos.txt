@@ -1,0 +1,14 @@
+Comando utilizado para instalar a virtualenv via pip
+    - pip install virtualenv
+
+Comando utilizado para criar um ambiente virtual
+    - virtualenv venv
+
+Comando para ativar o ambiente virtual
+    - venv\Scripts\activate
+
+Comando para listar as bibliotecas instaladas dentro do ambiente virtual
+    - pip list
+
+Bibliotecas utilizadas no projeto
+    - pip install Django
