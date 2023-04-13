@@ -19,5 +19,9 @@ Comando para criar um app Django
 Comando para rodar o servidor Django
     - python manage.py runserver
 
+Comando para criar um super usuário
+    - python manage.py createsuperuser
+
 Bibliotecas utilizadas no projeto
     - pip install Django
+    - pip install django-allauth
